@@ -1,0 +1,9 @@
+The Print function
+
+The Print function prints the user a defined message in the console.
+To use the print function type in the command followed by ()
+to enter a string to print add parentheses in the brackets and the string you want to put out in them
+to start a new lin within the same print function use "\n"
+
+
+Use the input function to get the input of a user. the code will pause at this line until the user made an input
