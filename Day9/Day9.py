@@ -7,3 +7,19 @@ dictionary = {
 
 print(dictionary["Bug"])
 
+#Nesting
+
+capitals = {
+    "Francce" : "Paris",
+    "Germany" : "Berlin",
+    "United Kingdom" : "London"
+}
+
+travel_log ={
+    "France" : ["Paris", "Lille", "Dijon"],
+    "Germany" : ["Berlin", "Hamburg", "Stuttgart"]
+}
+
+travel_log_exp ={
+    "France" : {cities_visited : ["Paris", "Lille", "Dijon"]},
+    "Germany" : ["Berlin", "Hamburg", "Stuttgart"]}
