@@ -30,3 +30,5 @@ def check_for_blackjack(list):
     if calculate_value(user_cards) == 21 and len(list) == 2:
         print("Blackjack!")
     return
+
+Test todo
